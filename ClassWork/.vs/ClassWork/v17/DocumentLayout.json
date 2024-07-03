@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|c:\\users\\raman\\desktop\\.net\\classwork\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|c:\\users\\raman\\desktop\\.net\\classwork\\linqexample\\product.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\product.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|c:\\users\\raman\\desktop\\.net\\classwork\\linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|c:\\users\\raman\\desktop\\.net\\classwork\\linqexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|c:\\users\\raman\\desktop\\.net\\classwork\\linqexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|c:\\users\\raman\\desktop\\.net\\classwork\\linqexample\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Program.cs",
+              "RelativeDocumentMoniker": "LinqExample\\Program.cs",
+              "ToolTip": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Program.cs",
+              "RelativeToolTip": "LinqExample\\Program.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAcwG8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:21:03.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.xml",
+              "DocumentMoniker": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Product.xml",
+              "RelativeDocumentMoniker": "LinqExample\\Product.xml",
+              "ToolTip": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Product.xml",
+              "RelativeToolTip": "LinqExample\\Product.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-02T17:20:53.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Product.cs",
+              "RelativeDocumentMoniker": "LinqExample\\Product.cs",
+              "ToolTip": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Product.cs",
+              "RelativeToolTip": "LinqExample\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:20:49.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Order.cs",
+              "RelativeDocumentMoniker": "LinqExample\\Order.cs",
+              "ToolTip": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Order.cs",
+              "RelativeToolTip": "LinqExample\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:20:47.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Employee.cs",
+              "RelativeDocumentMoniker": "LinqExample\\Employee.cs",
+              "ToolTip": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Employee.cs",
+              "RelativeToolTip": "LinqExample\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:20:45.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Customers.cs",
+              "RelativeDocumentMoniker": "LinqExample\\Customers.cs",
+              "ToolTip": "C:\\Users\\raman\\Desktop\\.Net\\ClassWork\\LinqExample\\Customers.cs",
+              "RelativeToolTip": "LinqExample\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:20:43.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
